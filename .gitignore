@@ -18,3 +18,5 @@ build/
 .mypy_cache/
 *.db
 *.sqlite
+.claude/
+.git_backup/
